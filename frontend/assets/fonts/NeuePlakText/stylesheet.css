@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Light.eot');
+    src: local('Neue Plak Text Light'), local('NeuePlakText-Light'),
+        url('NeuePlakText-Light.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Light.woff2') format('woff2'),
+        url('NeuePlakText-Light.woff') format('woff'),
+        url('NeuePlakText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-BlackItalic.eot');
+    src: local('Neue Plak Text Black Italic'), local('NeuePlakText-BlackItalic'),
+        url('NeuePlakText-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-BlackItalic.woff2') format('woff2'),
+        url('NeuePlakText-BlackItalic.woff') format('woff'),
+        url('NeuePlakText-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-SemiBold.eot');
+    src: local('Neue Plak Text SemiBold'), local('NeuePlakText-SemiBold'),
+        url('NeuePlakText-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-SemiBold.woff2') format('woff2'),
+        url('NeuePlakText-SemiBold.woff') format('woff'),
+        url('NeuePlakText-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Italic.eot');
+    src: local('Neue Plak Text Italic'), local('NeuePlakText-Italic'),
+        url('NeuePlakText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Italic.woff2') format('woff2'),
+        url('NeuePlakText-Italic.woff') format('woff'),
+        url('NeuePlakText-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Black.eot');
+    src: local('Neue Plak Text Black'), local('NeuePlakText-Black'),
+        url('NeuePlakText-Black.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Black.woff2') format('woff2'),
+        url('NeuePlakText-Black.woff') format('woff'),
+        url('NeuePlakText-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-SemiBoldItalic.eot');
+    src: local('Neue Plak Text SemiBold Italic'), local('NeuePlakText-SemiBoldItalic'),
+        url('NeuePlakText-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-SemiBoldItalic.woff2') format('woff2'),
+        url('NeuePlakText-SemiBoldItalic.woff') format('woff'),
+        url('NeuePlakText-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Thin.eot');
+    src: local('Neue Plak Text Thin'), local('NeuePlakText-Thin'),
+        url('NeuePlakText-Thin.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Thin.woff2') format('woff2'),
+        url('NeuePlakText-Thin.woff') format('woff'),
+        url('NeuePlakText-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-LightItalic.eot');
+    src: local('Neue Plak Text Light Italic'), local('NeuePlakText-LightItalic'),
+        url('NeuePlakText-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-LightItalic.woff2') format('woff2'),
+        url('NeuePlakText-LightItalic.woff') format('woff'),
+        url('NeuePlakText-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Bold.eot');
+    src: local('Neue Plak Text Bold'), local('NeuePlakText-Bold'),
+        url('NeuePlakText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Bold.woff2') format('woff2'),
+        url('NeuePlakText-Bold.woff') format('woff'),
+        url('NeuePlakText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-ThinItalic.eot');
+    src: local('Neue Plak Text Thin Italic'), local('NeuePlakText-ThinItalic'),
+        url('NeuePlakText-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-ThinItalic.woff2') format('woff2'),
+        url('NeuePlakText-ThinItalic.woff') format('woff'),
+        url('NeuePlakText-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-BoldItalic.eot');
+    src: local('Neue Plak Text Bold Italic'), local('NeuePlakText-BoldItalic'),
+        url('NeuePlakText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-BoldItalic.woff2') format('woff2'),
+        url('NeuePlakText-BoldItalic.woff') format('woff'),
+        url('NeuePlakText-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+

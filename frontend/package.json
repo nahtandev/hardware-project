@@ -1,0 +1,11 @@
+{
+  "name": "hardware",
+  "version": "1.0.0",
+  "description": "Une application pour gérer vos équipements.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "i_am_nathan",
+  "license": "ISC"
+}
