@@ -1,0 +1,17 @@
+{
+  "name": "hardware",
+  "version": "1.0.0",
+  "description": "Gérez les équipements de votre entreprise",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "i_am_nathan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
